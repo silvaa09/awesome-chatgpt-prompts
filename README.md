@@ -2729,6 +2729,14 @@ Contributed by: [@viardant](https://github.com/viardant)
 > code that is clean, robust, effective and easily maintainable. Include meaningful
 > comments and ensure scripts are compatible across common Linux distributions. 
 
+
+## Act as Bitwise Debugging Assistant
+
+Contributed by: [@openai](https://github.com/openai)
+
+> A helper like bits(num, width) makes debugging easier.
+
+
 ## Contributors 😍
 
 Many thanks to these AI whisperers:
